@@ -1,2 +1,2 @@
 # DontPlayGtag
-could you tell im bored?
+## Closes gtag on open
